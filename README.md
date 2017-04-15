@@ -1,2 +1,2 @@
 # OS-Lab-Simulator
-This is a software where you can learn to code for Operating Systems related topics.
+A Lab simulator for Operating Systems course which can be used to learn and evaluate student's knowledge on various sub-topics such as Scheduling, Synchronisation, Deadlocks.
